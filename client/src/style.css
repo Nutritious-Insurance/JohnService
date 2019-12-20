@@ -21,7 +21,7 @@
 }
 
 #nextButton {
-  left: 1590px;
+  right: 5px;
 }
 
 .carousel {
@@ -63,6 +63,7 @@
 
 .outerBox {
   position: relative;
+  width: 1640px;
 }
 
 .styleName {
